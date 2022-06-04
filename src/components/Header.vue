@@ -28,9 +28,8 @@ export default {
     </ul>
     <br>
     Hi *,<br>
-    I am a software developer with several years of experience. I have worked mainly on backend projects creating REST
-    microservices. I enjoy learning new things and currently I have the pleasure to work with people from whom I can
-    learn so much.
+    I am a software developer with several years of experience mainly on backend projects creating REST microservices.<br>
+    I enjoy learning new things and currently I work as a backend developer for <a href="https://www.spreadgroup.com">Spread Group</a>.
     <br>
     <br>
     <address>
