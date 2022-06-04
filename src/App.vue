@@ -1,8 +1,5 @@
 <script>
 import Header from './components/Header.vue'
-import JSConfetti from 'js-confetti'
-
-const confetti = new JSConfetti()
 
 export default {
   components: {
@@ -12,9 +9,6 @@ export default {
     return {
       name: "Michael Reid"
     }
-  },
-  mounted() {
-    confetti.addConfetti()
   }
 }
 </script>
@@ -24,9 +18,4 @@ export default {
 </template>
 
 <style>
-.Header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 </style>
