@@ -12,12 +12,17 @@ export default {
 </script>
 
 <template>
-    <address>
-        <a :href="email">Email</a><br>
-        <a :href="linkedin">LinkedIn</a><br>
-        <a :href="github">GitHub</a><br>
-    </address>
+    <div class="center">
+        <address>
+            <a :href="email">Email</a><br>
+            <a :href="linkedin">LinkedIn</a><br>
+            <a :href="github">GitHub</a><br>
+        </address>
+    </div>
 </template>
 
-<style>
+<style scoped>
+.center {
+    text-align: center;
+}
 </style>

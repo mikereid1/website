@@ -10,8 +10,13 @@ export default {
 </script>
 
 <template>
-    <h1>{{ name }}</h1>
+    <div class="center">
+        <h1>{{ name }}</h1>
+    </div>
 </template>
 
-<style>
+<style scoped>
+.center {
+    text-align: center;
+}
 </style>
