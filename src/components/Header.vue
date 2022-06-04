@@ -24,10 +24,9 @@ export default {
         <li>JavaScript</li>
         <li>Spring Boot</li>
         <li>Vue.js</li>
-        <li>Mysql</li>
+        <li>MySQL</li>
     </ul>
     <br>
-    Hi *,<br>
     I am a software developer with several years of experience mainly on backend projects creating REST microservices.<br>
     I enjoy learning new things and currently I work as a backend developer for <a href="https://www.spreadgroup.com">Spread Group</a>.
     <br>
