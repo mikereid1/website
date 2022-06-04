@@ -13,25 +13,24 @@ export default {
 </script>
 
 <template>
-    <div style="text-align: center">
+    <div style="text-align: center;">
         <img @click="confetti" src="@/assets/me.png" alt="profile" width="125" class="image">
-        <h3>Software Engineer</h3>
-        <div class="display: inline-block; ext-align: left;">
-            <ul>
-                <li>Java</li>
-                <li>Kotlin</li>
-                <li>Spring Boot</li>
-                <li>JavaScript</li>
-                <li>Vue.js</li>
-                <li>MySQL</li>
-            </ul>
-        </div>
+        <p>
+            I am a software developer with several years of experience mainly working on backends.<br>
+            I enjoy learning new things and currently I work as a backend developer for <a
+                href="https://www.spreadgroup.com">Spread Group</a>.
+        </p>
         <br>
-        I am a software developer with several years of experience mainly working on backends creating REST
-        microservices.<br>
-        I enjoy learning new things and currently I work as a backend developer for <a
-            href="https://www.spreadgroup.com">Spread Group</a>.
-        <br>
+        <p>
+            <h3>Skills</h3>
+            Java<br>
+            Kotlin<br>
+            Spring Boot<br>
+            JavaScript<br>
+            Vue.js<br>
+            MySQL<br>
+        </p>
+
         <br>
     </div>
 </template>
@@ -39,6 +38,6 @@ export default {
 <style scoped>
 .image {
     border-radius: 50%;
-    border: 5px solid #555;
+    border: 5px solid #000;
 }
 </style>

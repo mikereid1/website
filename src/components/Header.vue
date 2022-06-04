@@ -12,6 +12,8 @@ export default {
 <template>
     <div class="center">
         <h1>{{ name }}</h1>
+        <hr>
+        <p>Software Engineer</p>
     </div>
 </template>
 
