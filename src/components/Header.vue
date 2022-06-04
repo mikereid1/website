@@ -33,9 +33,9 @@ export default {
     <br>
     <br>
     <address>
-        <a href="michaelreid@email.com">Email</a><br>
-        <a href="https://www.linkedin.com/in/myurl/">LinkedIn</a><br>
-        <a href="https://github.com/myurl/">GitHub</a><br>
+        <a href="https://proton.me/">Email</a><br>
+        <a href="https://www.linkedin.com/">LinkedIn</a><br>
+        <a href="https://github.com/">GitHub</a><br>
     </address>
 </template>
 
