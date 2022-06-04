@@ -11,4 +11,9 @@ export default {
 </template>
 
 <style>
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 </style>
