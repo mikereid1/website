@@ -12,7 +12,7 @@ export default {
 <template>
     <div class="center">
         <h1>{{ name }}</h1>
-        <hr>
+        <hr width="25%">
         <p>Software Engineer</p>
     </div>
 </template>
